@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "191792393825",
+    "firebase_url": "https://leda-4e707.firebaseio.com",
+    "project_id": "leda-4e707",
+    "storage_bucket": "leda-4e707.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191792393825:android:4d609974261abde5200420",
+        "android_client_info": {
+          "package_name": "com.example.leda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191792393825-mcff3le9p0edaj8hmott7brn16pqcub6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.leda",
+            "certificate_hash": "70be0cae0b1f8fd6ac3cea395f4c128e6abf3ef8"
+          }
+        },
+        {
+          "client_id": "191792393825-kksn22tq11h5cpio0hdahr179bdv6fdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOTPYtVKKQs4ELnwnYi2PEHSAbO9GjpjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191792393825-kksn22tq11h5cpio0hdahr179bdv6fdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
